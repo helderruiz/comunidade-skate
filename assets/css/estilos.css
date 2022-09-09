@@ -207,7 +207,6 @@ body {
 }
 
 
-
 .cartao__imagem--desktop {
     display: none;
 }
@@ -384,5 +383,7 @@ body {
     .secao-produtos {
         grid-area: secao-produtos;
     }
+
+    
 
 }
